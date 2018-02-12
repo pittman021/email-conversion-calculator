@@ -1,0 +1,34 @@
+.App {
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 50px;
+}
+
+.email-conversion-form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.email-converion-header {
+  border-bottom: 1px solid #eee;
+}
+
+.cart-conversion-form {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.cart-conversion-form h2 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.pure-table {
+  margin-bottom: 20px;
+}
+
+.cart-text {
+  text-align: center;
+}
